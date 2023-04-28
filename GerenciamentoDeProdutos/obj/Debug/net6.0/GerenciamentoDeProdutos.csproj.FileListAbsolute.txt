@@ -1,0 +1,15 @@
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\bin\Debug\net6.0\GerenciamentoDeProdutos.exe
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\bin\Debug\net6.0\GerenciamentoDeProdutos.deps.json
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\bin\Debug\net6.0\GerenciamentoDeProdutos.runtimeconfig.json
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\bin\Debug\net6.0\GerenciamentoDeProdutos.dll
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\bin\Debug\net6.0\GerenciamentoDeProdutos.pdb
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.csproj.AssemblyReference.cache
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.AssemblyInfoInputs.cache
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.AssemblyInfo.cs
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.dll
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\refint\GerenciamentoDeProdutos.dll
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.pdb
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\GerenciamentoDeProdutos.genruntimeconfig.cache
+C:\Users\MATEUS\source\repos\GerenciamentoDeProdutos\GerenciamentoDeProdutos\obj\Debug\net6.0\ref\GerenciamentoDeProdutos.dll
